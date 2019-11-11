@@ -1,0 +1,13 @@
+{
+  "name": "slack-home-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "NABEYAMA Yoshihide",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^1.4.1",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15"
+  }
+}
